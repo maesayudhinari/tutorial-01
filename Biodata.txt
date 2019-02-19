@@ -1,1 +1,2 @@
-NPM	: 1706106702Nama	: Dhinari Hayu Fadhilah
+NPM	: 1706106702Nama	: Dhinari Hayu Fadhilah
+Jurusan : Sistem Informasi
